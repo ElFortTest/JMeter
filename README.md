@@ -1,1 +1,1 @@
-Проекты JMeter для разведки
+JMeter projects for exploration
