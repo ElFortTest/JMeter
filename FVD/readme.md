@@ -1,17 +1,18 @@
 <p align="center">
   <b>JMeter script for testing fvd.ru website</b>
+</p>
+<p align="center">
   <b>Скрипт JMeter по тестированию сайта fvd.ru</b>
-
 </p>
 
-<b>Actions</b>
+<b>Действия</b>
 1. Авторизация на сайте
 2. Выбор id товара на главной странице рандомным способом
 3. Добавление в корзину, выбранного id товара
 4. Выбор id товара в корзине рандомным способом
 5. Удаление из корзины
 6. Выход из системы
-
+<b>Actions</b>
 1. Authorization on the website
 2. Random selection of a product ID on the main page
 3. Adding the selected product ID to the shopping cart
